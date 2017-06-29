@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7BAF62E3-47F0-A174-D560-F9AF83D97E8D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GoldenEgg",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
